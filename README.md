@@ -1,7 +1,7 @@
 # AsteroidCrash
 my very first complete project!
 
-Things to do from todays perspective.
+Things to do from todays perspective. </br>
 Separate input from logic so it is event driven and in general has many things to refactor..
 Manual. Enter to restart, Esc to go to previous menu or exit, left button shoot, wasd-keys to move.
 Add spatial partinioning to it to increase efficiency (Learnt of this techonolgy after I completed the game).
