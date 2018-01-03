@@ -1,8 +1,5 @@
 # AsteroidCrash
-my very first complete project
-
-First project to apply some kind of layering. (Even before I got into university)
-I am willing to show this for the reason of showing my initiative in learning... and it always bothered me that objects didnt collide with each other. Well now i know why. 
+my very first complete project!
 
 Things to do from todays perspective.
 Separate input from logic so it is event driven and in general has many things to refactor..
